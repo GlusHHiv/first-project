@@ -1,3 +1,5 @@
 class Praktikum {
-    String test = "test";
+    public static void main(String[] arg){
+        
+    }
 }
